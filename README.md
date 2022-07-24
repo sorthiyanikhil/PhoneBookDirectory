@@ -20,7 +20,5 @@ With the help of Doubly Linked List searching is fast as it has double pointer t
 - Searching O(n)
 - Deletion O(n)
 - Sorting O(n*Log n)
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
